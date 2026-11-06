@@ -1,0 +1,43 @@
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+.crimson {
+    color: crimson;
+}
+
+.green {
+    color: seagreen;
+}
+
+.maize {
+    color: #FFCB05;
+}
+
+.red {
+    color: red;
+}
+
+.orange {
+    color: #BF5700;
+}
+
+button {
+    padding: 10px 20px;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+#yes {
+    background-color: green;
+}
+
+#no {
+    background-color: red;
+}
