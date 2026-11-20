@@ -1,0 +1,31 @@
+/* Center form on screen */
+body {
+  font-family: sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0;
+  background-color: #f9f9f9;
+}
+/* Center form on screen */
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding: 24px;
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  width: 280px;
+}
+/* Controls base style */
+input,
+button {
+  padding: 8px 10px;
+  font-size: 16px;
+}
+/* Submit button */
+button {
+  cursor: pointer;
+}
